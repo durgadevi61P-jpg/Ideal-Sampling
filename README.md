@@ -43,8 +43,8 @@ plt.subplot(616); plt.plot(t,rec); plt.title("Reconstructed"); plt.grid(True)
 plt.tight_layout(); plt.show()
 ```
 # Output Waveform
-```
-![WhatsApp Image 2026-02-16 at 3 33 12 PM](https://github.com/user-attachments/assets/bb78bf46-5025-494a-b8d4-f29bdcdfb9e3)
+![WhatsApp Image 2026-02-16 at 3 33 12 PM](https://github.com/user-attachments/assets/caf398a4-651b-4dc8-ad5c-e9d6a8f1f579)
+
 
 
 ```
