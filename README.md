@@ -44,7 +44,8 @@ plt.tight_layout(); plt.show()
 ```
 # Output Waveform
 ```
-<img width="1381" height="1390" alt="image" src="https://github.com/user-attachments/assets/5773a22b-c0ea-4568-817b-7bbbd48697f2" />
+![WhatsApp Image 2026-02-16 at 3 33 12 PM](https://github.com/user-attachments/assets/bb78bf46-5025-494a-b8d4-f29bdcdfb9e3)
+
 
 ```
 # Results
